@@ -39,3 +39,19 @@
 # else:
 #     print(False)
 
+# str_ = 'abcdefABCDEF'
+# for i in str_:
+#     if i.islower():
+#         print(i)
+
+# list1 = [[[1, 2, 3], [4, 5, 6], [7, 8, 9]], [[10, 11, 12], [13, 14, 15], [16, 17, 18]], [[19, 20, 21], [22, 23, 24], [25, 26, 27]]]
+# a = []
+# for i in list1:
+#     for j in i:
+#         for f in j:
+#             a.append(f)
+# a.sort()
+# for i in a:
+#     print(i)
+
+print([i for i in range(10)])
