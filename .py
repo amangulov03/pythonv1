@@ -54,8 +54,7 @@
 # for i in a:
 #     print(i)
 
-days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
-del days[3]
-del days[4]
-del days[5]
-print(days)
+a = input()
+print(a + 5)
+
+# ctrl - L
